@@ -2,8 +2,9 @@
     "title": "HiBox",
     "name": "HiBox",
     "type": "object",
-    "imageUrl": "ipfs://QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J",
+    "decimals": 1,
+    "imageUrl": "https://hibafinance.com/NFT/HIBOX.png",
     "description": "HiBox",
     "id": 0,
-    "image": "ipfs://QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J"
+    "image": "https://hibafinance.com/NFT/HIBOX.png"
 }
